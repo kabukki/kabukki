@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a full-stack developer specialized in Javascript and web technologies with a low-level technical background.
+
 <!--
 **kabukki/kabukki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
