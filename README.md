@@ -4,7 +4,7 @@ I'm a full-stack developer specialized in Javascript and web technologies with a
 
 #### 🎮 Emulators
 
-WebAssembly emulators playable in the browser, accessible on my [retro](https://kabukki.github.io/)retro project.
+WebAssembly emulators playable in the browser, accessible on my [retro](https://kabukki.github.io/) project.
 
 - [CHIP-8 emulator](https://github.com/kabukki/wasm-chip8) (2021)
 - [NES emulator](https://github.com/kabukki/wasm-nes) (2021)
