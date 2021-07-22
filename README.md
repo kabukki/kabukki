@@ -4,12 +4,11 @@ I'm a full-stack developer specialized in Javascript and web technologies with a
 
 #### 🎮 Emulators
 
-WebAssembly emulators playable in the browser, accessible on my [retro](https://kabukki.github.io/) project.
+WebAssembly emulators playable in the browser, accessible on my [retro](https://kabukki.github.io/retro) project.
 
 - [CHIP-8 emulator](https://github.com/kabukki/wasm-chip8) (2021)
 - [NES emulator](https://github.com/kabukki/wasm-nes) (2021)
 - ~~GameBoy emulator~~
-- *others...*
 
 #### 📚 Educational
 
@@ -22,7 +21,7 @@ Some school projects worth sharing.
 
 #### 🛠 Tools & Productivity
 
-Libraries and apps to improve productivity and reuse code
+Libraries and apps to improve productivity and reuse code.
 
 - [Epitech scripts](https://github.com/kabukki/epitech-utils) (2018)
 - [Desktop client for Epitech repository management](https://github.com/kabukki/blih-vue) (2018)
