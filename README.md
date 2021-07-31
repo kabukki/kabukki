@@ -8,7 +8,9 @@ WebAssembly emulators playable in the browser, accessible on my [retro](https://
 
 - [CHIP-8 emulator](https://github.com/kabukki/wasm-chip8) (2021)
 - [NES emulator](https://github.com/kabukki/wasm-nes) (2021)
-- ~~GameBoy emulator~~
+- *GameBoy emulator*
+- *PlayStation emulator*
+- ...
 
 #### 📚 Educational
 
