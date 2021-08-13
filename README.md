@@ -25,6 +25,7 @@ Some school projects worth sharing.
 
 Libraries and apps to improve productivity and reuse code.
 
+- [Hacking toolkit](https://github.com/kabukki/hackit) (2021)
 - [Epitech scripts](https://github.com/kabukki/epitech-utils) (2018)
 - [Desktop client for Epitech repository management](https://github.com/kabukki/blih-vue) (2018)
 - [Node.js client for Epitech repository management](https://github.com/kabukki/blih) (2017)
