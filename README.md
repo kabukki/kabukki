@@ -4,44 +4,43 @@ I'm a full-stack developer specialized in Javascript and web technologies with a
 
 #### 🎮 Emulators
 
-WebAssembly emulators playable in the browser, accessible on my [retro](https://github.com/kabukki/retro) project. Try them out [online](https://kabukki.github.io/retro)!
+WebAssembly emulators playable in the browser. Try them out [online](https://kabukki.github.io/retro)!
 
-- [CHIP-8 emulator](https://github.com/kabukki/wasm-chip8) (2021)
-- [NES emulator](https://github.com/kabukki/wasm-nes) (2021)
-- *GameBoy emulator*
-- *Nintendo 64 / PlayStation emulator*
-- ...
-
-#### 📚 Educational
-
-Some school projects worth sharing.
-
-- ["Des chiffres et des lettres" solver](https://github.com/kabukki/uqar-renardeau) (2019)
-- [Password cracker](https://github.com/kabukki/uqar-password-cracker) (2019)
-- [FTP client & server](https://github.com/kabukki/epitech-ftp) (2018)
-- [x86 standard C library implementation](https://github.com/kabukki/asm-libc) (2017)
+- [WASM emulators playground](https://github.com/kabukki/retro) (2021) <img align="center" src="./icons/react.svg"/>
+- [CHIP-8 emulator](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
+- [NES emulator](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
+- *More to come: GameBoy, Nintendo 64, PlayStation...*
 
 #### 🛠 Tools & Productivity
 
 Libraries and apps to improve productivity and reuse code.
 
-- [Hacking toolkit](https://github.com/kabukki/hackit) (2021)
-- [Epitech scripts](https://github.com/kabukki/epitech-utils) (2018)
-- [Desktop client for Epitech repository management](https://github.com/kabukki/blih-vue) (2018)
-- [Node.js client for Epitech repository management](https://github.com/kabukki/blih) (2017)
-- [Electron project scaffolder](https://github.com/kabukki/yarvis) (2017)
-- [CLI project scaffolder](https://github.com/kabukki/yarvis-cli) (2017)
-- [Linked list manipulation library](https://github.com/kabukki/c-list) (2017)
-- [Matrix manipulation library](https://github.com/kabukki/c-matrix) (2016)
+- [Hacking toolkit](https://github.com/kabukki/hackit) (2021) <img align="center" src="./icons/go.svg"/>
+- [Epitech scripts](https://github.com/kabukki/epitech-utils) (2018) <img align="center" src="./icons/sh.svg"/>
+- [Desktop client for Epitech repository management](https://github.com/kabukki/blih-vue) (2018) <img align="center" src="./icons/electron.svg"/> <img align="center" src="./icons/vue.svg"/>
+- [Node.js client for Epitech repository management](https://github.com/kabukki/blih) (2017) <img align="center" src="./icons/node.svg"/>
+- [Electron project scaffolder](https://github.com/kabukki/yarvis) (2017) <img align="center" src="./icons/electron.svg"/> <img align="center" src="./icons/js.svg"/>
+- [CLI project scaffolder](https://github.com/kabukki/yarvis-cli) (2017) <img align="center" src="./icons/sh.svg"/>
+- [Linked list manipulation library](https://github.com/kabukki/c-list) (2017) <img align="center" src="./icons/c.svg"/>
+- [Matrix manipulation library](https://github.com/kabukki/c-matrix) (2016) <img align="center" src="./icons/c.svg"/>
+
+#### 📚 Educational
+
+Some school projects worth sharing.
+
+- ["Des chiffres et des lettres" solver](https://github.com/kabukki/uqar-renardeau) (2019) <img align="center" src="./icons/cpp.svg"/>
+- [Password cracker](https://github.com/kabukki/uqar-password-cracker) (2019) <img align="center" src="./icons/cpp.svg"/>
+- [FTP client & server](https://github.com/kabukki/epitech-ftp) (2018) <img align="center" src="./icons/c.svg"/>
+- [x86 standard C library implementation](https://github.com/kabukki/asm-libc) (2017) <img align="center" src="./icons/asm.svg"/>
 
 #### 🎲 Miscellaneous
 
-- [Vue component library](https://github.com/kabukki/vue-components) (2019)
-- [PWA soundbox](https://github.com/kabukki/khrissbox) (2018)
-- [IP address optimizer](https://github.com/kabukki/ip-optimizer) (2017)
-- [Zelda BOTW cooking simulator](https://github.com/kabukki/zelda-cooking) (2017)
-- [Multiplayer Yahtzee game](https://github.com/kabukki/yahtzee) (2016)
-- [CLI quiz game](https://github.com/kabukki/membash) (2016)
+- [Vue component library](https://github.com/kabukki/vue-components) (2019) <img align="center" src="./icons/vue.svg"/>
+- [PWA soundbox](https://github.com/kabukki/khrissbox) (2018) <img align="center" src="./icons/js.svg"/>
+- [IP address optimizer](https://github.com/kabukki/ip-optimizer) (2017) <img align="center" src="./icons/js.svg"/>
+- [Zelda BOTW cooking simulator](https://github.com/kabukki/zelda-cooking) (2017) <img align="center" src="./icons/js.svg"/>
+- [Multiplayer Yahtzee game](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
+- [CLI quiz game](https://github.com/kabukki/membash) (2016) <img align="center" src="./icons/sh.svg"/>
 
 Other experimental or unfinished projects are not mentioned here.
 
