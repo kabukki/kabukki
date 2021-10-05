@@ -37,12 +37,15 @@ Some school projects worth sharing.
 
 - [Vue component library](https://github.com/kabukki/vue-components) (2019) <img align="center" src="./icons/vue.svg"/>
 - [PWA soundbox](https://github.com/kabukki/khrissbox) (2018) <img align="center" src="./icons/js.svg"/>
+- [3D collision detection script for Montecrypto game](https://gist.github.com/kabukki/66f19b9752a6725e625a81157a66edfa) plotted [online](https://chart-studio.plotly.com/~rshn.kabu/1/#/) (2018) <img align="center" src="./icons/lua.svg"/>
 - [IP address optimizer](https://github.com/kabukki/ip-optimizer) (2017) <img align="center" src="./icons/js.svg"/>
 - [Zelda BOTW cooking simulator](https://github.com/kabukki/zelda-cooking) (2017) <img align="center" src="./icons/js.svg"/>
 - [Multiplayer Yahtzee game](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
 - [CLI quiz game](https://github.com/kabukki/membash) (2016) <img align="center" src="./icons/sh.svg"/>
 
 Other experimental or unfinished projects are not mentioned here.
+
+> Icons from https://github.com/vscode-icons/vscode-icons
 
 <!--
 **kabukki/kabukki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
