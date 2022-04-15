@@ -7,7 +7,6 @@ I'm a full-stack developer specialized in Javascript and web technologies with a
 WebAssembly emulators playable in the browser. Try them out [online](https://lucien.le-roux.dev/retro)!
 
 - [WASM emulators playground](https://github.com/kabukki/retro) (2021) <img align="center" src="./icons/react.svg"/>
-- [Emulator toolkit](https://github.com/kabukki/emukit) (2021) <img align="center" src="./icons/ts.svg"/>
 - [NES emulator](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
 - [CHIP-8 emulator](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
 - *More to come: GameBoy, Nintendo 64, PlayStation...*
