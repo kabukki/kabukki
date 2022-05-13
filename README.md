@@ -35,6 +35,7 @@ Some school projects worth sharing.
 
 #### 🎲 Miscellaneous
 
+- [Geography quiz](https://github.com/kabukki/geo) (2022) <img align="center" src="./icons/react.svg"/>
 - [Vue component library](https://github.com/kabukki/vue-components) (2019) <img align="center" src="./icons/vue.svg"/>
 - [PWA soundbox](https://github.com/kabukki/khrissbox) (2018) <img align="center" src="./icons/js.svg"/>
 - [3D collision detection script for Montecrypto game](https://gist.github.com/kabukki/66f19b9752a6725e625a81157a66edfa) plotted [online](https://chart-studio.plotly.com/~rshn.kabu/1/#/) (2018) <img align="center" src="./icons/lua.svg"/>
