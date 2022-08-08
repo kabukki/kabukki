@@ -35,6 +35,7 @@ Some school projects worth sharing.
 
 #### 🎲 Miscellaneous
 
+- [Brainfuck interpreter](https://github.com/kabukki/brainfuck) (2022) <img align="center" src="./icons/rust.svg"/>
 - [Geography quiz](https://github.com/kabukki/geo) (2022) <img align="center" src="./icons/react.svg"/>
 - [Vue component library](https://github.com/kabukki/vue-components) (2019) <img align="center" src="./icons/vue.svg"/>
 - [PWA soundbox](https://github.com/kabukki/khrissbox) (2018) <img align="center" src="./icons/js.svg"/>
