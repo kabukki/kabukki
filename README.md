@@ -35,6 +35,7 @@ Some school projects worth sharing.
 
 #### 🎲 Miscellaneous
 
+- [WebGPU game of life](https://github.com/kabukki/webgpu) (2024) <img align="center" src="./icons/wgsl.svg"/>
 - [Brainfuck interpreter](https://github.com/kabukki/brainfuck) (2022) <img align="center" src="./icons/rust.svg"/>
 - [Geography quiz](https://github.com/kabukki/geo) (2022) <img align="center" src="./icons/react.svg"/>
 - [Vue component library](https://github.com/kabukki/vue-components) (2019) <img align="center" src="./icons/vue.svg"/>
