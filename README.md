@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack developer specialized in Javascript and web technologies with a low-level technical background, and a keen intereset in cybersecurity. Here are some open-sourced projects that I've worked on:
+I'm a full-stack developer specialized in Typescript and web technologies with a low-level technical background, and a keen intereset in cybersecurity. Here are some open-sourced projects that I've worked on:
 
 #### 🎮 Emulators
 
