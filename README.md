@@ -2,10 +2,11 @@
 
 I'm a full-stack developer specialized in Typescript and web technologies with a low-level technical background, and a keen intereset in cybersecurity. Here are some open-sourced projects that I've worked on:
 
-#### 🎮 Emulators
+#### 🎮 Games
 
 WebAssembly emulators playable in the browser. Try them out [online](https://lucien.le-roux.dev/retro)!
 
+- [Almost, a word-guessing game based on semantic similarity](https://github.com/kabukki/almost) (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg"/>
 - [Online WASM console emulators](https://github.com/kabukki/retro) (2021) <img align="center" src="./icons/react.svg"/>
 - [NES emulator](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
 - [CHIP-8 emulator](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
