@@ -4,13 +4,11 @@ I'm a full-stack developer specialized in Typescript and web technologies with a
 
 #### 🎮 Games
 
-WebAssembly emulators playable in the browser. Try them out [online](https://lucien.le-roux.dev/retro)!
-
-- [Almost, a word-guessing game based on semantic similarity](https://github.com/kabukki/almost) (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg"/>
-- [Online WASM console emulators](https://github.com/kabukki/retro) (2021) <img align="center" src="./icons/react.svg"/>
-- [NES emulator](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
-- [CHIP-8 emulator](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
-- *More to come: GameBoy, Nintendo 64, PlayStation...*
+- [Kandela, guess the daily word using semantic similarity](https://github.com/kabukki/kandela) (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg"/>
+- [WebAssembly emulators, playable online](https://github.com/kabukki/retro) (2021) <img align="center" src="./icons/react.svg"/>
+  - [CHIP-8](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
+  - [NES](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
+  - *More to come: GameBoy, Nintendo 64, PlayStation...*
 
 #### 🛠 Tools & Productivity
 
