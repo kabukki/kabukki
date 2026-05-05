@@ -4,6 +4,7 @@ I'm a full-stack developer specialized in Typescript and web technologies with a
 
 #### 🎮 Games
 
+- [Pokko, the smarter way to scroll](https://pokko.app?utm_source=github) (since 2024) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
 - [Kandela, guess the daily word using semantic similarity](https://github.com/kabukki/kandela) (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
 - [WebAssembly emulators, playable online](https://github.com/kabukki/retro) (2021) <img align="center" src="./icons/react.svg"/>
   - [CHIP-8](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
