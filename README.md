@@ -4,7 +4,7 @@ I'm a full-stack developer specialized in Typescript and web technologies with a
 
 #### 🎮 Games
 
-- [Kandela, guess the daily word using semantic similarity](https://github.com/kabukki/kandela) (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg"/>
+- [Kandela, guess the daily word using semantic similarity](https://github.com/kabukki/kandela) (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
 - [WebAssembly emulators, playable online](https://github.com/kabukki/retro) (2021) <img align="center" src="./icons/react.svg"/>
   - [CHIP-8](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - [NES](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
@@ -37,7 +37,7 @@ Some school projects worth sharing.
 
 #### 🎲 Miscellaneous
 
-- [WebGPU game of life](https://github.com/kabukki/webgpu) (2024) <img align="center" src="./icons/wgsl.svg"/>
+- [WebGPU game of life](https://github.com/kabukki/webgpu) (2024) <img align="center" src="./icons/wgsl.svg" height="16px" />
 - [Brainfuck interpreter](https://github.com/kabukki/brainfuck) (2022) <img align="center" src="./icons/rust.svg"/>
 - [Vue component library](https://github.com/kabukki/vue-components) (2019) <img align="center" src="./icons/vue.svg"/>
 - [PWA soundbox](https://github.com/kabukki/khrissbox) (2018) <img align="center" src="./icons/js.svg"/>
