@@ -4,15 +4,16 @@ I'm a full-stack developer specialized in Typescript and web technologies with a
 
 #### 🎮 Games
 
-- [Pokko, the smarter way to scroll](https://pokko.app?utm_source=github) (since 2024) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
-- [Kandela, guess the daily word using semantic similarity](https://github.com/kabukki/kandela) (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
-- [WebAssembly emulators, playable online](https://github.com/kabukki/retro) (2021) <img align="center" src="./icons/react.svg"/>
+- [Pokko](https://pokko.app?utm_source=github) - the smarter way to scroll (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
+  - [Geoquiz](https://github.com/kabukki/geo) - predecessor of Pokko, focused on geography (2022) <img align="center" src="./icons/react.svg"/>
+  - [Membash](https://github.com/kabukki/membash) - CLI predecessor of Pokko (2016) <img align="center" src="./icons/sh.svg"/>
+- [Kandela](https://github.com/kabukki/kandela) - guess the daily word using semantic similarity (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
+- [RETRO](https://github.com/kabukki/retro) - WebAssembly emulators playable online (2021) <img align="center" src="./icons/react.svg"/>
   - [CHIP-8](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - [NES](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - *More to come: GameBoy, Nintendo 64, PlayStation...*
-- [Geography quiz](https://github.com/kabukki/geo) (2022) <img align="center" src="./icons/react.svg"/>
-- [Multiplayer Yahtzee game](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
-- [CLI quiz game](https://github.com/kabukki/membash) (2016) <img align="center" src="./icons/sh.svg"/>
+- [Multiplayer Yahtzee](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
+
 
 #### 🛠 Tools & Productivity
 
