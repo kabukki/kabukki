@@ -9,6 +9,9 @@ I'm a full-stack developer specialized in Typescript and web technologies with a
   - [CHIP-8](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - [NES](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - *More to come: GameBoy, Nintendo 64, PlayStation...*
+- [Geography quiz](https://github.com/kabukki/geo) (2022) <img align="center" src="./icons/react.svg"/>
+- [Multiplayer Yahtzee game](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
+- [CLI quiz game](https://github.com/kabukki/membash) (2016) <img align="center" src="./icons/sh.svg"/>
 
 #### 🛠 Tools & Productivity
 
@@ -36,14 +39,11 @@ Some school projects worth sharing.
 
 - [WebGPU game of life](https://github.com/kabukki/webgpu) (2024) <img align="center" src="./icons/wgsl.svg"/>
 - [Brainfuck interpreter](https://github.com/kabukki/brainfuck) (2022) <img align="center" src="./icons/rust.svg"/>
-- [Geography quiz](https://github.com/kabukki/geo) (2022) <img align="center" src="./icons/react.svg"/>
 - [Vue component library](https://github.com/kabukki/vue-components) (2019) <img align="center" src="./icons/vue.svg"/>
 - [PWA soundbox](https://github.com/kabukki/khrissbox) (2018) <img align="center" src="./icons/js.svg"/>
 - [3D collision detection script for Montecrypto game](https://gist.github.com/kabukki/66f19b9752a6725e625a81157a66edfa) plotted [online](https://chart-studio.plotly.com/~rshn.kabu/1/#/) (2018) <img align="center" src="./icons/lua.svg"/>
 - [IP address optimizer](https://github.com/kabukki/ip-optimizer) (2017) <img align="center" src="./icons/js.svg"/>
 - [Zelda BOTW cooking simulator](https://github.com/kabukki/zelda-cooking) (2017) <img align="center" src="./icons/js.svg"/>
-- [Multiplayer Yahtzee game](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
-- [CLI quiz game](https://github.com/kabukki/membash) (2016) <img align="center" src="./icons/sh.svg"/>
 
 Other experimental or unfinished projects are not mentioned here.
 
