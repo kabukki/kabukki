@@ -42,8 +42,8 @@ Some school projects worth sharing.
 - [WebGPU game of life](https://github.com/kabukki/webgpu) (2024) <img align="center" src="./icons/wgsl.svg" height="16px" />
 - [Brainfuck interpreter](https://github.com/kabukki/brainfuck) (2022) <img align="center" src="./icons/rust.svg"/>
 - [Vue component library](https://github.com/kabukki/vue-components) (2019) <img align="center" src="./icons/vue.svg"/>
+- [Montecrypto invisible stairs mapper](https://gist.github.com/kabukki/66f19b9752a6725e625a81157a66edfa) using collision detection, [featured on the Game Detectives Wiki](https://wiki.gamedetectives.net/w/MonteCrypto#Loud_Sky/Invisible_Stairs) ([3D plot](https://chart-studio.plotly.com/~rshn.kabu/1/#/)) (2018) <img align="center" src="./icons/lua.svg"/>
 - [PWA soundbox](https://github.com/kabukki/khrissbox) (2018) <img align="center" src="./icons/js.svg"/>
-- [3D collision detection script for Montecrypto game](https://gist.github.com/kabukki/66f19b9752a6725e625a81157a66edfa) plotted [online](https://chart-studio.plotly.com/~rshn.kabu/1/#/) (2018) <img align="center" src="./icons/lua.svg"/>
 - [IP address optimizer](https://github.com/kabukki/ip-optimizer) (2017) <img align="center" src="./icons/js.svg"/>
 - [Zelda BOTW cooking simulator](https://github.com/kabukki/zelda-cooking) (2017) <img align="center" src="./icons/js.svg"/>
 
