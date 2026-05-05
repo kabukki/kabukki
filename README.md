@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack developer specialized in Typescript and web technologies with a low-level technical background, and a keen intereset in cybersecurity. Here are some open-sourced projects that I've worked on:
+Senior software engineer with 7+ years shipping SaaS products end-to-end, with a low-level background and a keen interest in cybersecurity. Outside of work, I've been pushing code here for 10 years: games, emulators, dev tools, and other experiments.
 
 #### 🎮 Games
 
@@ -50,18 +50,3 @@ Some school projects worth sharing.
 Other experimental or unfinished projects are not mentioned here.
 
 > Icons from https://github.com/vscode-icons/vscode-icons
-
-<!--
-**kabukki/kabukki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
