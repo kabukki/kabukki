@@ -4,7 +4,7 @@ Senior software engineer with 7+ years shipping SaaS products end-to-end, with a
 
 #### 🎮 Games
 
-- [Pokko](https://pokko.app?utm_source=github) - the smarter way to scroll (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
+- [Kultivate](https://kultivate.app?utm_source=github) - a scroll feed that makes you smarter, not dumber (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
   - [Geoquiz](https://github.com/kabukki/geo) - predecessor of Pokko, focused on geography (2022) <img align="center" src="./icons/react.svg"/>
   - [Membash](https://github.com/kabukki/membash) - CLI predecessor of Pokko (2016) <img align="center" src="./icons/sh.svg"/>
 - [Kandela](https://github.com/kabukki/kandela) - guess the daily word using semantic similarity (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
