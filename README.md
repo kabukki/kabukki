@@ -1,23 +1,26 @@
-### Hi there 👋
+### 👋 Hi there!
 
-Senior software engineer with 7+ years shipping SaaS products end-to-end, with a low-level background and a keen interest in cybersecurity. Outside of work, I've been pushing code here for 10 years: games, emulators, dev tools, and other experiments.
+Senior software engineer with 7+ years shipping SaaS products end-to-end, with a low-level background and a keen interest in cybersecurity. 
+
+Outside of work, I build small products that try to demystify complex topics, namely:
+- [Kultivate](https://kultivate.app?utm_source=github) - a scroll feed that makes you smarter, not dumber (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
+- [Kast](https://kast.le-roux.dev?utm_source=github) - demystifying personal finance (2026) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/>
+- [Kandela](https://kandela.le-roux.dev?utm_source=github) - guess the daily word using semantic similarity (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
+
+---
 
 #### 🎮 Games
 
-- [Kultivate](https://kultivate.app?utm_source=github) - a scroll feed that makes you smarter, not dumber (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
-  - [Geoquiz](https://github.com/kabukki/geo) - predecessor of Pokko, focused on geography (2022) <img align="center" src="./icons/react.svg"/>
-  - [Membash](https://github.com/kabukki/membash) - CLI predecessor of Pokko (2016) <img align="center" src="./icons/sh.svg"/>
-- [Kandela](https://github.com/kabukki/kandela) - guess the daily word using semantic similarity (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
+- [Geoquiz](https://github.com/kabukki/geo) - predecessor of Kultivate, focused on geography (2022) <img align="center" src="./icons/react.svg"/>
 - [RETRO](https://github.com/kabukki/retro) - WebAssembly emulators playable online (2021) <img align="center" src="./icons/react.svg"/>
   - [CHIP-8](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - [NES](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - *More to come: GameBoy, Nintendo 64, PlayStation...*
 - [Multiplayer Yahtzee](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
-
+- [Membash](https://github.com/kabukki/membash) - CLI predecessor of Kultivate (2016) <img align="center" src="./icons/sh.svg"/>
 
 #### 🛠 Tools
 
-- [Kast](https://kast.le-roux.dev?utm_source=github) - demystifying personal finance (2026) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/>
 - [Hacking toolkit](https://github.com/kabukki/hackit) (2021) <img align="center" src="./icons/go.svg"/>
 - [Epitech scripts](https://github.com/kabukki/epitech-utils) (2018) <img align="center" src="./icons/sh.svg"/>
 - [Desktop client for Epitech repository management](https://github.com/kabukki/blih-vue) (2018) <img align="center" src="./icons/electron.svg"/> <img align="center" src="./icons/vue.svg"/>
