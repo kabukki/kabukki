@@ -15,10 +15,9 @@ Senior software engineer with 7+ years shipping SaaS products end-to-end, with a
 - [Multiplayer Yahtzee](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
 
 
-#### 🛠 Tools & Productivity
+#### 🛠 Tools
 
-Libraries and apps to improve productivity and reuse code.
-
+- [Kast](https://kast.le-roux.dev?utm_source=github) - Demystifying personal finance (2026) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/>
 - [Hacking toolkit](https://github.com/kabukki/hackit) (2021) <img align="center" src="./icons/go.svg"/>
 - [Epitech scripts](https://github.com/kabukki/epitech-utils) (2018) <img align="center" src="./icons/sh.svg"/>
 - [Desktop client for Epitech repository management](https://github.com/kabukki/blih-vue) (2018) <img align="center" src="./icons/electron.svg"/> <img align="center" src="./icons/vue.svg"/>
