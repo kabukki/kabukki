@@ -12,7 +12,7 @@ Outside of work, I build small products that try to demystify complex topics, na
 #### 🎮 Games
 
 - [Geoquiz](https://github.com/kabukki/geo) - predecessor of Kultivate, focused on geography (2022) <img align="center" src="./icons/react.svg"/>
-- [RETRO](https://github.com/kabukki/retro) - WebAssembly emulators playable online (2021) <img align="center" src="./icons/react.svg"/>
+- [Kabinet](https://github.com/kabukki/kabinet) - WebAssembly emulators playable online (2021) <img align="center" src="./icons/react.svg"/>
   - [CHIP-8](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - [NES](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - *More to come: GameBoy, Nintendo 64, PlayStation...*
