@@ -3,16 +3,17 @@
 Senior software engineer with 7+ years shipping SaaS products end-to-end, with a low-level background and a keen interest in cybersecurity. 
 
 Outside of work, I build small products that try to demystify complex topics, namely:
-- [Kultivate](https://kultivate.app?utm_source=github) - a scroll feed that makes you smarter, not dumber (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
-- [Kast](https://kast.le-roux.dev?utm_source=github) - demystifying personal finance (2026) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/>
-- [Kandela](https://kandela.le-roux.dev?utm_source=github) - guess the daily word using semantic similarity (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
+- [Kultivate](https://kultivate.app) - a scroll feed that makes you smarter, not dumber (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
+- [Kash](https://kash.le-roux.dev) - demystifying personal finance (2026) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/>
+- [Kandela](https://kandela.le-roux.dev) - guess the daily word using semantic similarity (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
+- [Konsole](https://konsole.le-roux.dev) - handcrafted retro console emulators, playable in your browser (2021) <img align="center" src="./icons/react.svg"/>
 
 ---
 
 #### 🎮 Games
 
 - [Geoquiz](https://github.com/kabukki/geo) - predecessor of Kultivate, focused on geography (2022) <img align="center" src="./icons/react.svg"/>
-- [Konsole](https://github.com/kabukki/konsole) - handcrafted retro console emulators, playable in your browser (2021) <img align="center" src="./icons/react.svg"/>
+- WebAssembly emulators
   - [CHIP-8](https://github.com/kabukki/wasm-chip8) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - [NES](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - *More to come: GameBoy, Nintendo 64, PlayStation...*
