@@ -18,7 +18,8 @@ Outside of work, I build small products that try to demystify complex topics, na
   - [NES](https://github.com/kabukki/wasm-nes) (2021) <img align="center" src="./icons/rust.svg"/> <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/wasm.svg"/>
   - *More to come: GameBoy, Nintendo 64, PlayStation...*
 - [Multiplayer Yahtzee](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
-- [Membash](https://github.com/kabukki/membash) - CLI predecessor of Kultivate (2016) <img align="center" src="./icons/sh.svg"/>
+- [Membash](https://github.com/kabukki/membash) - CLI quizzes, predecessor of Kultivate (2016) <img align="center" src="./icons/sh.svg"/>
+- [Click game](https://github.com/kabukki/click-game) - auto clicker prototype (2016) <img align="center" src="./icons/java.svg"/>
 
 #### 🛠 Tools
 
