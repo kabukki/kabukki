@@ -19,7 +19,7 @@ Outside of work, I build small products that try to demystify complex topics, na
   - *More to come: GameBoy, Nintendo 64, PlayStation...*
 - [Multiplayer Yahtzee](https://github.com/kabukki/yahtzee) (2016) <img align="center" src="./icons/js.svg"/>
 - [Membash](https://github.com/kabukki/membash) - CLI quizzes, predecessor of Kultivate (2016) <img align="center" src="./icons/sh.svg"/>
-- [Click game](https://github.com/kabukki/click-game) - auto clicker prototype (2016) <img align="center" src="./icons/java.svg"/>
+- [Click game](https://github.com/kabukki/click-game) - auto clicker prototype (2016) <img align="center" src="./icons/java.svg" height="16px" />
 
 #### 🛠 Tools
 
