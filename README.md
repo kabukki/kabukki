@@ -23,12 +23,12 @@ Outside of work, I build small products that try to demystify complex topics, na
 
 #### 🛠 Tools
 
-- [Hacking toolkit](https://github.com/kabukki/hackit) (2021) <img align="center" src="./icons/go.svg"/>
+- [Hackit](https://github.com/kabukki/hackit) - hacking toolkit (2021) <img align="center" src="./icons/go.svg"/>
 - [Epitech scripts](https://github.com/kabukki/epitech-utils) (2018) <img align="center" src="./icons/sh.svg"/>
-- [Desktop client for Epitech repository management](https://github.com/kabukki/blih-vue) (2018) <img align="center" src="./icons/electron.svg"/> <img align="center" src="./icons/vue.svg"/>
-- [Node.js client for Epitech repository management](https://github.com/kabukki/blih) (2017) <img align="center" src="./icons/node.svg"/>
-- [Electron project scaffolder](https://github.com/kabukki/yarvis) (2017) <img align="center" src="./icons/electron.svg"/> <img align="center" src="./icons/js.svg"/>
-- [CLI project scaffolder](https://github.com/kabukki/yarvis-cli) (2017) <img align="center" src="./icons/sh.svg"/>
+- [Blih Vue](https://github.com/kabukki/blih-vue) - desktop client for Epitech repository management (2018) <img align="center" src="./icons/electron.svg"/> <img align="center" src="./icons/vue.svg"/>
+- [Blih](https://github.com/kabukki/blih) - Node client for Epitech repository management (2017) <img align="center" src="./icons/node.svg"/>
+- [Yarvis](https://github.com/kabukki/yarvis) - Electron project scaffolder (2017) <img align="center" src="./icons/electron.svg"/> <img align="center" src="./icons/js.svg"/>
+- [Yarvis CLI](https://github.com/kabukki/yarvis-cli) - CLI project scaffolder (2017) <img align="center" src="./icons/sh.svg"/>
 - [Linked list manipulation library](https://github.com/kabukki/c-list) (2017) <img align="center" src="./icons/c.svg"/>
 - [Matrix manipulation library](https://github.com/kabukki/c-matrix) (2016) <img align="center" src="./icons/c.svg"/>
 
