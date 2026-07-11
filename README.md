@@ -3,7 +3,7 @@
 Senior software engineer with 7+ years shipping SaaS products end-to-end, with a low-level background and a keen interest in cybersecurity. 
 
 Outside of work, I build small products that try to demystify complex topics, namely:
-- [Kultivate](https://kultivate.app) - a scroll feed that makes you smarter, not dumber (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
+- [Kultivate](https://kultivate.app) - replace 10 minutes of doomscrolling with a feed that leaves you knowing more interesting things (2024-present) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/node.svg" height="16px" />
 - [Kash](https://kash.le-roux.dev) - demystifying personal finance (2026) <img align="center" src="./icons/ts.svg"/> <img align="center" src="./icons/react.svg"/>
 - [Kandela](https://kandela.le-roux.dev) - guess the daily word using semantic similarity (2026) <img align="center" src="./icons/react.svg"/> <img align="center" src="./icons/python.svg" height="16px" />
 - [Konsole](https://konsole.le-roux.dev) - handcrafted retro console emulators, playable in your browser (2021) <img align="center" src="./icons/react.svg"/>
